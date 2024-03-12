@@ -3,10 +3,6 @@ body {
     color: #434455;
     background-color: #fff;
 }
-h1,h2,h3,h4,h5,h6, p{
-    margin-bottom: 0;
-    margin-top: 0;
-}
 a{
     text-decoration: none;
 }
@@ -14,9 +10,6 @@ ul, ol {
     list-style: none;
     padding: 0;
     margin: 0;
-}
-button{
-    cursor: pointer;
 }
 
 .container{
@@ -100,26 +93,8 @@ display: block;
     color: #404bbf;
 }
 
-.main-container{
-    width: 1440px;
-height: 600px;
-    background: #2e2f42;
-    
-}
-.title-banner-wrap{
-    width: 496px;
-    height: 120px;
-    margin-bottom: 48px;
-}
 .title-banner{
-    font-weight: 700;
-font-size: 56px;
-line-height: 1.07;
-letter-spacing: 0.02em;
-text-align: center;
-color: #fff;
-
-    
+    background-color: #2e2f42;;
 }
 .title{
     font-family: "Roboto", sans-serif;
@@ -129,9 +104,6 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
-padding-top: 188px;
-
-
 }
 
 .button-order{
@@ -149,14 +121,6 @@ cursor: pointer;
 .button-order:focus{
     background: #404bbf;
 }
-
-.benefits-list{
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
-.benefits{
-    
-}
 .title-three{
     font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -164,8 +128,6 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
-margin-top: 32px;
-margin-bottom: 8px;
 }
 .text{
     font-family: "Roboto", sans-serif;
@@ -184,21 +146,9 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
-padding-top: 120px;
-padding-bottom: 120px;
-
-
-margin: 0 auto;
-margin-bottom: 72px;
-}
-.portfolio-list{
-    padding-top: 120px;
-    padding-bottom: 120px;
 }
 .our-team{
-   background: #f4f4fd;
-   padding-top: 120px;
-   padding-bottom: 120px;
+   background-color: #f4f4fd;
 }
 .team-card{
 background: #fff;
@@ -208,8 +158,6 @@ background: #fff;
 }
 .footer{
 background: #2e2f42;
-padding-top: 100px;
-padding-bottom: 100px;
 }
 .logo-footer{
     font-family: "Raleway", sans-serif;
@@ -219,7 +167,6 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-margin-bottom: 16px;
 }
 .logo-footer-part{
     font-family: "Raleway", sans-serif;
@@ -229,7 +176,6 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
-
 }
 .text-footer{
 font-family: "Roboto", sans-serif;
@@ -238,6 +184,4 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
-max-width: 264px;
-
 }
