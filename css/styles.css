@@ -191,6 +191,10 @@ padding-bottom: 120px;
 margin: 0 auto;
 margin-bottom: 72px;
 }
+.portfolio-list{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 .our-team{
    background: #f4f4fd;
    padding-top: 120px;
