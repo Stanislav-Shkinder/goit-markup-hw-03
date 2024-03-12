@@ -185,3 +185,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
+.footer-content{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
