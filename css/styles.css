@@ -170,7 +170,7 @@ margin-bottom: 8px;
     gap: 24px;
     display: flex;
 }
-.benefits-list-first:nth-child(1n+1){
+.benefits-list-first:nth-child(1n + 1){
     width: calc((100% - 72px) / 4;
 
 }
@@ -219,7 +219,7 @@ background: #fff;
 .project-card-first{
     width: calc((100% - 48px) / 3);
 }
-.project-card:nth-child(1n+1){
+.project-card:nth-child(1n + 1){
     width: calc((100% - 48px) / 3);
 background: #fff;
 
