@@ -211,6 +211,12 @@ border-radius: 0px 0px 4px 4px;
 .name-position{
     padding: 32px 0;
 }
+.name{
+    text-align: center;
+}
+.position{
+    text-align: center;
+}
 .project-list{
     display: flex;
     flex-wrap: wrap;
