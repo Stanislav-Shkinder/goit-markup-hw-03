@@ -172,6 +172,7 @@ margin-bottom: 8px;
 }
 .benefits-list-first:nth-child(1n + 1){
     width: calc((100% - 72px) / 4;
+   
 
 }
 .text{
@@ -216,20 +217,19 @@ background: #fff;
    border-top: none;
 
 }
-.project-card-first{
-    width: calc((100% - 48px) / 3);
-}
-.project-card:nth-child(1n + 1){
-    width: calc((100% - 48px) / 3);
-background: #fff;
 
-}
+
 .section-four{
     padding-top: 120px;
     padding-bottom: 120px;
 }
 .title-two-project{
     margin-bottom: 72px;
+}
+.project-card:nth-child(1n + 1){
+    width: calc((100% - 48px) / 3);
+background: #fff;
+
 }
 .footer{
     padding: 100px 0;
