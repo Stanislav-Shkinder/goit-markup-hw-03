@@ -155,6 +155,10 @@ margin-bottom: 8px;
 }
 .benefits-list{
     gap: 24px;
+    display: flex;
+}
+.benefits-list-first{
+    width: calc((100% - 72px) / 4;
 }
 .text{
     font-family: "Roboto", sans-serif;
