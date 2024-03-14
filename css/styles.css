@@ -205,8 +205,11 @@ margin-bottom: 8px;
     gap: 24px;
 }
 .team-card{
-
 background: #fff;
+border-radius: 0px 0px 4px 4px;
+}
+.name-position{
+    padding: 32px 0;
 }
 .project-list{
     display: flex;
