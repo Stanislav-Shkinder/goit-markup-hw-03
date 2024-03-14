@@ -104,7 +104,9 @@ display: block;
 }
 
 .title-banner{
-    background-color: #2e2f42;;
+    background-color: #2e2f42;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 .title{
     font-family: "Roboto", sans-serif;
@@ -114,6 +116,9 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+max-width: 496px;
+height: 56px;
+border: none;
 }
 
 .button-order{
@@ -125,7 +130,9 @@ letter-spacing: 0.04em;
 color: #fff;
 background: #4d5ae5;
 cursor: pointer;
-
+display: block;
+min-width: 169px;
+border-radius: 4px;
 }
 .button-order:hover,
 .button-order:focus{
