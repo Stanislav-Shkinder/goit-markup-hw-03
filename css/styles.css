@@ -231,10 +231,10 @@ background: #fff;
 background: #fff;
 
 }
-.footer{
-    padding: 100px 0;
+.footer{  
 background: #2e2f42;
-
+padding-top: 100px;
+padding-bottom: 100;
 }
 
 .logo-footer{
@@ -265,7 +265,4 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 max-width: 264px;
-}
-.footer-content{
-    background: #2e2f42;
 }
