@@ -182,6 +182,11 @@ margin-bottom: 8px;
 }
 .our-team{
    background-color: #f4f4fd;
+   padding-top: 120px;
+   padding-bottom: 120px;
+}
+.title-our-team{
+    mix-blend-mode: 72px;
 }
 .team-card{
 background: #fff;
