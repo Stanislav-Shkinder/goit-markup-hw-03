@@ -177,7 +177,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
-margin-bottom: 72px;
+margin-bottom: 8px;
 }
 .our-team{
    background-color: #f4f4fd;
@@ -190,6 +190,12 @@ background: #fff;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+}
+.category{
+   padding: 32px 16px;
+   border: 1px solid #e7e9fc;
+   border-top: none;
+
 }
 .project-card-first{
     width: calc((100% - 48px) / 3);
