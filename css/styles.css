@@ -117,6 +117,8 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 max-width: 496px;
+margin: auto;
+margin-bottom: 48px;
 
 }
 
@@ -134,6 +136,7 @@ min-width: 169px;
 border-radius: 4px;
 height: 56px;
 border: none;
+margin: auto;
 }
 .button-order:hover,
 .button-order:focus{
